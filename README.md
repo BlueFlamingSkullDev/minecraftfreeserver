@@ -207,9 +207,4 @@ cd
 sudo rm -r mcserver
 ```
 If the project is completely deleted, you can [Clone the Project](https://github.com/lordofwizard/mcserver/blob/main/README.md#installation) again and it should be up to date with the new features and code from this project!
-## Conclusion
-Now you can host your very own Minecraft Server for both Java & Bedrock fast and easy and it won't cost you a single penny to make a fast and strong server. Best of all, IT'S FOREVER! Feel free to leave any requests you would like me to add into the project. If you have any issues, go to the [**Issues**](https://github.com/lordofwizard/mcserver/issues) tab and submit a issue there.
-## Credits
-> Project Creator: *[LordOfWizard](https://github.com/lordofwizard)*
 
-> Tutorial Creator: *[DumbCaveSpider](https://github.com/DumbCaveSpider)*
