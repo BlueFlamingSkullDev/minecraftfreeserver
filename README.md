@@ -11,14 +11,6 @@ In this project, we'll teach you host your very own Java/Bedrock Minecraft Serve
 - Instant EULA script setup *(Completly skipping this part which makes other people's life much easier to manage)*
 - Faster Server Installation *(It would probably take you like approx 30 seconds to setup a server)*
 
-## Need help?
-> [**Watch this Tutorial with LordOfWizard**](https://youtu.be/2CdQUmNKRJI) `Latest`
-
-> [**Watch this Tutorial with ArcticWoof**](https://youtu.be/0j0ijkwddz8) `Outdated`
-
-> [**Submit any Issues here**](https://github.com/lordofwizard/mcserver/issues)
-
-> [**Join the Discord Server**](https://discord.gg/V2R26jBEzN)
 ### To do list
 - Asking the user for the specific version they want to run of java.
 - Add 3rd party sources in the list.
@@ -42,7 +34,7 @@ You can view your exact specs by doing `./specinfo`
 * Activate a [Google Cloud Shell](https://console.cloud.google.com/) on Google cloud.
 * Clone this GitHub Project into the Console:
 ```
-git clone https://github.com/lordofwizard/mcserver
+git clone https://github.com/NotTerz/minecraftfreeserver
 ```
 * Go into `mcserver` directory:
 ```
